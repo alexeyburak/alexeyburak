@@ -10,7 +10,7 @@
 
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/alexey-burak-6a3698223#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/alexey-burak-6a3698223k#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/alexey-burak-6a3698223#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/byyrak#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/byyrak#gh-dark-mode-only)
@@ -24,20 +24,11 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="15px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/1200px-Java_logo.svg.png" />
 <img align="left" alt="C++" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="Terminal" width="20px" src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-0.jpg" />
 
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-<br />
-<br />
 
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
- 
-
-
-
-
-<br />
 <br />
 
 ---
@@ -58,4 +49,3 @@
 
 </details>
 
-![Profile views](https://gpvc.arturio.dev/alexeyburak)  
