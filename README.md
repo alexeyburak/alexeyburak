@@ -9,8 +9,8 @@
 ### Connect with me:
 
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/alexey-burak-6a3698223#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/alexey-burak-6a3698223k#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/byyrak#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/byyrak#gh-dark-mode-only)
