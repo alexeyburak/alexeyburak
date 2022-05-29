@@ -1,7 +1,7 @@
 # Hi there, I'm Alexey Burak 👋
 
 - 🔭 I’m currently working on my company
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on other creators
 - ⚡ Fun fact: I like to write poetry and play guitar
 
@@ -11,9 +11,6 @@
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/alexey-burak-6a3698223#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/alexey-burak-6a3698223#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/byyrak#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/byyrak#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -34,7 +31,7 @@
 ---
 <details>
 
- <summary>Top Languages</summary>
+ <summary>: Top Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyburak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
