@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on other creators
 - ⚡ Fun fact: I like to write poetry and play guitar
+- [Licenses and certificates](./certificates)
 
 
 ### Connect with me:
@@ -33,7 +34,7 @@
 
  <summary>: Top Languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyburak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyburak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
