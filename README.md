@@ -43,6 +43,9 @@
 ---
 
 <details>
+
+<br />
+
   <summary>: GitHub Stats</summary>
 
   <img align="left" alt="Alexey Burak GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexeyburak&show_icons=true&hide_border=false&title_color=#212121&icon_color=#212121&bg_color=#fff&text_color=#212121&border_color=#373aed" />
