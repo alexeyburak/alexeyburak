@@ -23,8 +23,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Motseratt&weight=800&size=22&duration=3000&pause=3000&color=000000&width=300&lines=Languages+and+Tools%3A)](https://git.io/typing-svg#gh-light-mode-only)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Motseratt&weight=800&size=22&duration=3000&pause=3000&color=F7F7F7&width=300&lines=Languages+and+Tools%3A)](https://git.io/typing-svg#gh-dark-mode-only) 
 
-<img align="left" alt="java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" style="padding-right:10px;" />
+<img align="left" alt="java" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="InteliJ IDEA" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -45,7 +45,7 @@
 <details>
   <summary>: GitHub Stats</summary>
 
-  <img align="left" alt="Alexey Burak GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexeyburak&show_icons=true&hide_border=false&title_color=E75480&icon_color=FFC0CB&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Alexey Burak GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexeyburak&show_icons=true&hide_border=false&title_color=#212121&icon_color=#212121&bg_color=#fff&text_color=#212121&border_color=#373aed" />
 
 </details>
 
