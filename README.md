@@ -17,8 +17,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Motseratt&weight=800&size=22&duration=3000&pause=3000&color=000000&width=300&lines=Connect+with+me%3A)](https://git.io/typing-svg#gh-light-mode-only)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Motseratt&weight=800&size=22&duration=3000&pause=3000&color=F7F7F7&width=300&lines=Connect+with+me%3A)](https://git.io/typing-svg#gh-dark-mode-only)  
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/alexey-burak-6a3698223#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/alexey-burak-6a3698223#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/alexey-burak#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/alexey-burak#gh-dark-mode-only)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Motseratt&weight=800&size=22&duration=3000&pause=3000&color=000000&width=300&lines=Languages+and+Tools%3A)](https://git.io/typing-svg#gh-light-mode-only)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Motseratt&weight=800&size=22&duration=3000&pause=3000&color=F7F7F7&width=300&lines=Languages+and+Tools%3A)](https://git.io/typing-svg#gh-dark-mode-only) 
